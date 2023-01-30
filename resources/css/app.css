@@ -1,0 +1,123 @@
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    background-color: #FFB6C1;
+    margin-top: 0px;
+}
+
+.todotitle{
+    font-size: 5rem;
+    color:#fff;
+    text-align: center;
+    margin-top:4rem;
+}
+
+.cutebtn{
+    background-color: #fff;
+    color:#FFB6C1;
+    border: 3px solid #fff;
+    font-weight: 600;
+    font-size: 16px;
+    padding:2px;
+    width: 300px;
+    border-radius: 20px;
+}
+
+.cutelittleedit{
+    background-color: #fff;
+    color: #FFB6C1;
+    border: 3px solid #fff;
+    font-weight: 600;
+    font-size: 14px;
+    padding:2px;
+    width: 100px;
+    border-radius: 20px;
+}
+.cutelittlebtn{
+    background-color: #fff;
+    color: #F08080;
+    border: 3px solid #fff;
+    font-weight: 600;
+    font-size: 14px;
+    padding:2px;
+    width: 100px;
+    border-radius: 20px;
+}
+
+.cuteadd{
+    background-color: #fff;
+    color: #F08080;
+    border: 3px solid #fff;
+    font-weight: 600;
+    font-size: 14px;
+    padding:2px;
+    width: 100px;
+    border-radius: 20px;
+    margin-top:2rem;
+}
+
+.bg{
+    background-color: #FFB6C1;
+}
+
+.menu ul{
+    list-style: none;
+}
+.menu li{
+    margin: 2rem;
+    list-style: none;
+}
+
+.cutetable{
+    text-align: center;
+    padding:10px;
+    align-items: center;
+    border: 3px solid #F08080;
+    background-color: #f0f0f0;
+    padding:3rem 3rem 3rem 3rem;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top:3rem;
+    border-radius: 20px;
+}
+
+.indice{
+    font-weight: 600;
+}
+.cutetable th{
+    color:#F08080;
+    height: 3rem;
+}
+table tr:nth-child(odd) td{
+   background-color: #FFB6C1;
+}
+table tr:nth-child(even) td{
+    background-color: #D3D3D3;
+}
+td{
+    height: 3rem;
+}
+.container{
+    color:#fff;
+    text-align: center;
+}
+
+.cuteinpt{
+    border: 1px solid #fff;
+    margin-top:2rem;
+    text-align: left;
+    background-color: #fff;
+}
+
+.formadd{
+    align-items: center;
+    border: 3px solid #F08080;
+    margin-top:3rem;
+    padding-top:3rem;
+    align-self: center;
+    align-items: left;
+    padding-bottom:3rem;
+}
